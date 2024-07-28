@@ -20,4 +20,4 @@ comida = [bebidas, lanche, sobremesa]
 
 
 print(comida[0][0]) # saida => cafe
-print(comida[2][0] # saida => bolo
+print(comida[2][0]) # saida => bolo
